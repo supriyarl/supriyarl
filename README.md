@@ -1,6 +1,6 @@
 # Hi there, I'm Supriya R L! 👩‍💻✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Electronics+and+Communication+Engineer;VLSI+and+Embedded+Systems+Specialist;Neuromorphic+Enthusiast;Neuromorphic+Head+at+ULOG3;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Electronics+%26+Communication+Engineer;VLSI+and+Embedded+Systems+Specialist;Neuromorphic+Enthusiast;Neuromorphic+Head+at+ULOG3;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
